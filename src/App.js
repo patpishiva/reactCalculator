@@ -15,7 +15,7 @@ const clearDisplay = () => {
 }
 
 const calculate = () => {
-  setResult(noeval(result).toString())
+  setResult((result).toString())
 }
 
   return (
